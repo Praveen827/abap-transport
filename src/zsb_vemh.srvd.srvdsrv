@@ -1,0 +1,5 @@
+@EndUserText.label: 'service definition-vm'
+define service ZSB_VEMH {
+  expose ZC_vech;
+  expose ZC_MAINT;
+}
